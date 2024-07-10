@@ -1,2 +1,1 @@
-# lab2-rtp
-PKU Network Lsb2 code, Use at your own risk!
+详细信息请参见 [lab2 documents](https://github.com/N2Sys-EDU/Lab2-Documentation)
